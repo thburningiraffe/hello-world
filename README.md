@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub!
+Eating my way around the world.
